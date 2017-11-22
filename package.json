@@ -1,0 +1,27 @@
+{
+  "name": "vue-event-system",
+  "version": "0.0.1",
+  "description": "A complete event management system for VueJs",
+  "main": "events.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MacArthurJustin/vue-event-system.git"
+  },
+  "keywords": [
+    "event",
+    "vuejs",
+    "plugin"
+  ],
+  "author": "Justin MacArthur <macarthurjustin@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MacArthurJustin/vue-event-system/issues"
+  },
+  "homepage": "https://github.com/MacArthurJustin/vue-event-system#readme",
+  "dependencies": {
+    "websocket": "^1.0.25"
+  }
+}
